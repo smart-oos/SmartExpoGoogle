@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "161127883984",
+    "project_id": "smartexpo-712bc",
+    "storage_bucket": "smartexpo-712bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161127883984:android:3b0d5557070b5095d9aad5",
+        "android_client_info": {
+          "package_name": "com.smartexpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161127883984-pab3ak2c3et6akontg5h15i2f364imgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartexpo",
+            "certificate_hash": "c84803e08890158254f5bfcbcda51755e704e253"
+          }
+        },
+        {
+          "client_id": "161127883984-smu2nr01s09ul16s5ppeo5s943291ije.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartexpo",
+            "certificate_hash": "a4feeff6b652f647bebdae79ab2aec776699316c"
+          }
+        },
+        {
+          "client_id": "161127883984-nf5sgm0j13cbj1uin6g3shdqmd2mh9v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6wX5wMYPJAM_EJu1C9F05J5Z4Sp_RDZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161127883984-nf5sgm0j13cbj1uin6g3shdqmd2mh9v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
